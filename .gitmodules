@@ -1,0 +1,4 @@
+[submodule "external/arm/BeeARM"]
+	path = external/arm/BeeARM
+	url = https://github.com/Buenia0/BeeARM.git
+	branch = rewrite
