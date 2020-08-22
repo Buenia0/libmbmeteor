@@ -13,6 +13,7 @@ libmbmeteor's first stable release was earlier this year. However, in order to i
 ## Near-term
 
 Implement missing GPU features and timers
+
 Fix bugs in BeeARM core
 
 ## Medium-term
